@@ -79,7 +79,7 @@
 (use-package! denote
   :init
   (setq denote-directory "~/notes/psalms/") ; You may change the path as needed
-
+;; (setq denote-directory "~/Documents/Denote/psalms/")
 ;;  (setq denote-known-keywords
 ;;        '("worship" "praise" "thanksgiving" "exaltation"
 ;;          "lament" "grief" "distress" "cry-for-help" "despair"
